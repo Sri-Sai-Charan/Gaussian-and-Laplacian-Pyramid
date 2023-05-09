@@ -10,7 +10,11 @@ In Laplacian pyramid, images are obtained from lost high- frequency components a
 
 The Gaussian and Laplacian pyramids, retain the superior frequency orientations and their corresponding low and high frequency components respectively.
 
+## Usage
 
+```bash
+Run the GaussianLaplacianPyramids.ipynb file in Jupyter Notebook or Google Colab
+```
 
 # Results
 
